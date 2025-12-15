@@ -34,19 +34,19 @@
         "@fortawesome/free-solid-svg-icons": "^6.5.2",
         "@inertiajs/vue3": "^1.0.16"
     },
-	"overrides": {
-		"@babel/traverse": ">=7.23.2",
-		"webpack": ">=5.76.0",
-		"webpack-dev-middleware": ">=5.3.4",
-		"browserify-sign": ">=4.2.2",
-		"socket.io-parser": ">=4.2.3",
-		"json5": ">=2.2.2",
-		"qs": ">=6.2.4",
-		"express": ">=4.19.2",
-		"ip": ">=1.1.9",
-		"localtunnel": {
-			"axios": ">=0.28.0"
-		},
+    "overrides": {
+        "@babel/traverse": ">=7.23.2",
+        "webpack": ">=5.76.0",
+        "webpack-dev-middleware": ">=5.3.4",
+        "browserify-sign": ">=4.2.2",
+        "socket.io-parser": ">=4.2.3",
+        "json5": ">=2.2.2",
+        "qs": ">=6.2.4",
+        "express": ">=4.19.2",
+        "ip": ">=1.1.9",
+        "localtunnel": {
+            "axios": ">=0.28.0"
+        },
         "ws": ">=8.17.1"
-	}
+    }
 }
